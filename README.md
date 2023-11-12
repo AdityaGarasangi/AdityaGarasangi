@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AdityaG
-- 👀 I’m interested in cyber security
+- 👋 Hi, I’m @AdityaGarasangi
+- 👀 I’m interested in Coding,cyber security
 - 🌱 I’m currently doing major in computer science
 - 💞️ I’m looking to collaborate on Programming and cybersecurity
 - 📫 How to reach me adityag9663@gmail.com
