@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aditya Garasangi</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<img align="right" width="400" alt="coding" src="https://th.bing.com/th/id/R.54c9af226721e95539a5cd9592d635bb?rik=pQNFNX3MXrFJdQ&riu=http%3a%2f%2fstore.outsourcingpundit.com%2fwp-content%2fuploads%2f2019%2f01%2ffocus-animation.gif&ehk=68Llss3Mjyn992cDHPwHGdT7F4pj746e%2fDDu6l4ZzHA%3d&risl=&pid=ImgRaw&r=0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityagarasangi&label=Profile%20views&color=0e75b6&style=flat" alt="adityagarasangi" /> </p>
 
@@ -7,10 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aditya garasangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya garasangi" height="30" width="40" /></a>
 <a href="https://instagram.com/aditya._.garasangi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aditya._.garasangi" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/adityag9663" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="adityag9663" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aditya9663" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aditya9663" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
