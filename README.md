@@ -1,6 +1,6 @@
-<h1 align="left">👋 Hi, I'm [Aditya Garasangi](https://adityagarasangi.github.io/)</h1>
+<h1 align="left">👋 Hi, I'm Aditya Garasangi</h1>
 
-- 🎓 **Computer Science & Engineering** Major
+- 🎓 Computer Science & Engineering Major with a focus on development, cloud computing, and cybersecurity.
 - 📫 Reach me at: [adityagarasangi77@gmail.com](mailto:adityagarasangi77@gmail.com)
 - ⭐ Explore my projects on [GitHub](https://github.com/AdityaGarasangi?tab=repositories)
 - 🚀 Passionate about development—coding is my lifelong journey! 💻❤️ Dive into my [portfolio](https://adityagarasangi.github.io/).
