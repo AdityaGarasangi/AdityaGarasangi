@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm <a href="https://yourportfolio.com" target="_blank">Your Name</a></h1>
+<h1 align="left">👋 Hi, I'm <a href="(https://adityagarasangi.github.io/)" target="_blank">Aditya Garasangi</a></h1>
 
 - 👨‍💻 Computer Science & Engineering Major
 - 📫 How to reach me: [adityagarasangi77@gmail.com](adityagarasangi77@gmail.com)
