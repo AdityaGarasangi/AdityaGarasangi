@@ -1,10 +1,9 @@
-<h1 align="left">👋 Hi, I'm <a href="(https://adityagarasangi.github.io/)" target="_blank">Aditya Garasangi</a></h1>
+<h1 align="left">👋 Hi, I'm [Aditya Garasangi](https://adityagarasangi.github.io/)</h1>
 
-- 👨‍💻 Computer Science & Engineering Major
-- 📫 How to reach me: [adityagarasangi77@gmail.com](adityagarasangi77@gmail.com)
-- ⭐ Check out my projects on [GitHub](https://github.com/AdityaGarasangi?tab=repositories)
-- 🔗 Rocking a cool **[Xk+ connections]** on LinkedIn, let's connect!
-- 🚀 Development sparked my coding passion—now it's a lifelong affair! Dive into my digital journey in the [portfolio](https://adityagarasangi.github.io/)! 💻❤️
+- 🎓 **Computer Science & Engineering** Major
+- 📫 Reach me at: [adityagarasangi77@gmail.com](mailto:adityagarasangi77@gmail.com)
+- ⭐ Explore my projects on [GitHub](https://github.com/AdityaGarasangi?tab=repositories)
+- 🚀 Passionate about development—coding is my lifelong journey! 💻❤️ Dive into my [portfolio](https://adityagarasangi.github.io/).
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
