@@ -39,7 +39,3 @@
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaGarasangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdityaGarasangi" /></td>
   </tr>
 </table>
-
-<div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGarasangi&theme=dark" alt="AdityaGarasangi" /></p>
-</div>
