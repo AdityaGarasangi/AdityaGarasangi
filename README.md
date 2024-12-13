@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi, I'm Aditya Garasangi</h1>
+<h1 align="left">👋 Hi, I'm AdityaGarasangi</h1>
 
 - 🎓 Computer Science & Engineering Major with a focus on development, cloud computing, and cybersecurity.
 - 📫 Reach me at: [adityagarasangi77@gmail.com](mailto:adityagarasangi77@gmail.com)
@@ -35,11 +35,11 @@
 <h3 align="left">📊 GitHub Activity:</h3>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=adityagarasangi&show_icons=true&theme=dark&locale=en" alt="adityagarasangi" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=adityagarasangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="adityagarasangi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=AdityaGarasangi&show_icons=true&theme=dark&locale=en" alt="AdityaGarasangi" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=AdityaGarasangi&show_icons=true&theme=dark&locale=en&layout=compact" alt="AdityaGarasangi" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adityagarasangi&theme=dark" alt="adityagarasangi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdityaGarasangi&theme=dark" alt="AdityaGarasangi" /></p>
 </div>
