@@ -3,7 +3,7 @@
 - 🎓 Computer Science & Engineering Major with a focus on development, cloud computing, and cybersecurity.
 - 📫 Reach me at: [adityagarasangi77@gmail.com](mailto:adityagarasangi77@gmail.com)
 - ⭐ Explore my projects on [GitHub](https://github.com/AdityaGarasangi?tab=repositories)
-- 🚀 Passionate about development—coding is my lifelong journey! 💻❤️ Dive into my [portfolio](https://adityagarasangi.github.io/).
+- 🚀 Passionate about development—coding is my lifelong journey! 💻❤️ Dive into my [portfolio](https://adityagarasangi.in/).
 
 <h3 align="left">📲 Connect with me:</h3>
 <div align="left">
