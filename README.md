@@ -27,7 +27,7 @@
 
 <h3 align="left">🗄️ Databases:</h3>
 <div align="left">
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-%23447A55.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="NoSQL" src="https://img.shields.io/badge/PostgreSQL-%23447A55.svg?style=for-the-badge&logo=nosql&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div><br/>
 
