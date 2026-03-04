@@ -9,9 +9,8 @@ When I’m not in the middle of a deployment, I’m probably:
 - Writing about something I’m learning on [my blog](https://hashnode.com/@adityagarasangi0). 
 - Or building something small in Python that solves a problem I have  
 
----
 
-## Things I've Built
+### Things I've Built
 
 **[AWS DevOps Portfolio Deployment](https://github.com/AdityaGarasangi/AWS-Devops-Portfolio-Deployment)**  
 My portfolio running on S3, with Lambda for contact form handling, API Gateway for routing, and Route 53 for DNS — fully AWS-native and serverless.
@@ -24,16 +23,14 @@ Node.js, MongoDB, and Mongo Express running together with Docker Compose. A prac
 
 Explore my other projects **[here](https://github.com/AdityaGarasangi?tab=repositories)**.
 
----
 
-## Writing
+### Writing
 
-I write about things I’m learning, building, or thinking through. 
+I write about things I’m learning, building, or thinking through
 **[hashnode.com/@adityagarasangi0](https://hashnode.com/@adityagarasangi0)**
 
----
 
-## A Bit More
+### A Bit More
 
 - Interested in reliability, automation, and secure systems  
 - Currently exploring Infrastructure as Code with Terraform  
